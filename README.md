@@ -19,4 +19,22 @@ if (Math.random() < chace) {
 So I end up approximating the odds, then rolling a dice and hoping I get lucky!
 
 ### Results
-So far nothing spectacular but I'll update here once it's over!
+
+The results are in! I made 64 brackets, and 6 of them appeared in the top 100!
+
+You can check out [full standings](https://www.codersbracket.com/standings) but my entries came in:
+
+| Finish | Bracket # | Score | Percentile |
+| ---    | ---       | ---   | ---        |
+| 4th    | 33        | 1010  | 99.8%      |
+| 50th   | 45        | 730   | 95.1%      |
+| 56th   | 20        | 710   | 94.5%      |
+| 56th   | 26        | 710   | 94.5%      |
+| 56th   | 27        | 710   | 94.5%      |
+| 71st   | 9         | 690   | 93.1%      |
+
+And here is visual proof for when they update their site for next year:
+
+![places](2014bracket.png)
+
+Based on a bit of simple math (100th place was in the 91.6th percentile), there were about 1000 bracket submitted. So if my algorithm was completely random we'd expect 6 in the top 100. 
